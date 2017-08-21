@@ -1,0 +1,25 @@
+
+body {
+  margin: 0;
+  font-family: 'Helvetica', sans-serif;
+  color: #888;
+  line-height: 1.5;
+  font-size: 20px;
+  text-align: center;
+}
+
+header {
+  margin: 5%;
+}
+
+h1 {
+  color: #286090;
+}
+
+img {
+  max-width: 60%;
+}
+
+.red-text {
+  color: #d31616;
+}
